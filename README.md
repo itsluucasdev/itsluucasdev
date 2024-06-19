@@ -8,7 +8,7 @@
 - 🛠️ **Tecnologias que eu uso:** C#, AWS Services e Python.
 - 💡 **Curiosidade:** Se eu não estou codando, provavelmente mexendo no carro e quebrando coisas.
 
-## 🌈 O Que Você Vai Encontrar Aqui
+## ⚡ O Que Você Vai Encontrar Aqui
 
 Prepare-se para um mergulho em repositórios recheados de:
 - 🔧 Projetos de back-end brilhantes.
@@ -31,6 +31,6 @@ Aqui estão algumas das minhas favoritas:
 - **🥇 Líder de Projeto Integração BTG Pactual x BACEN | SICOR**: Responsável por 200K transações diárias e 13BI Reais em volume.
 - **💼 Responsável pela Infraestrutura de todas agências do Itaú**: 4.500 Agências, 200 mil periféricoas, 80 mil Gerentes.
 
-## 🚀 Última Coisa...
+## 🧳 Última Coisa...
 
 Se você chegou até aqui, é um herói! 🌟 Obrigado por visitar meu repositório e espero que encontre algo interessante. Sinta-se à vontade para explorar, contribuir ou simplesmente dar aquela estrela ⭐ que tanto aquece o coração de um desenvolvedor.
