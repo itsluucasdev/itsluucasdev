@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo ao Meu Cantinho no GitHub! 🚀
+# 🌎 Bem-vindo ao Meu Cantinho no GitHub! 🌎
 
 👋 Olá! Eu sou Lucas, um desenvolvedor apaixonado por tecnologia e por carros.
 
