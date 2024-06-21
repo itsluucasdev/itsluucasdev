@@ -24,7 +24,7 @@ Aqui estão algumas das minhas favoritas:
 ## 📫 Vamos Conectar!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/santosludev/) – Vamos trocar ideias sobre o futuro da tecnologia (ou memes sobre programadores).
-- 📄 [Baixe Meu Currículo](https://github.com/itsluucasdev/itsluucasdev/blob/master/Resume-Lucas.pdf) – Quer saber mais sobre minha jornada? Aqui está um resumo.
+- 📄 [Meu Currículo](https://github.com/itsluucasdev/itsluucasdev/blob/master/Resume-Lucas.pdf) – Quer saber mais sobre minha jornada? Aqui está um resumo.
 
 ## 🏆 Conquistas Notáveis
 
