@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-- 💼 **Trabalho na:** Stone.CO(https://www.stone.com.br/produtos-stone/) – onde a magia tecnológica acontece! Somos conhecidos pela nossa paixão pelo cliente e sorriso no rosto.
+- 💼 **Trabalho na:** [Stone.CO(https://www.stone.com.br/)] – onde a magia tecnológica acontece! Somos conhecidos pela nossa paixão pelo cliente e sorriso no rosto.
 - 🛠️ **Tecnologias que eu uso:** C#, AWS Services e Python.
 - 💡 **Curiosidade:** Se eu não estou codando, provavelmente mexendo no carro e quebrando coisas.
 
