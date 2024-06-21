@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre Mim
 
-- 💼 **Trabalho na:** [Stone.CO(https://www.stone.com.br/)] – onde a magia tecnológica acontece! Somos conhecidos pela nossa paixão pelo cliente e sorriso no rosto.
-- 🛠️ **Tecnologias que eu uso:** C#, AWS Services e Python.
+- 💼 **Trabalho na:** [Stone.CO](https://www.stone.com.br/) – onde a magia tecnológica acontece! Somos conhecidos pela nossa paixão pelo cliente e sorriso no rosto. 
+- 🛠️ **Tecnologias que eu uso:** C#, AWS, React e Python.
 - 💡 **Curiosidade:** Se eu não estou codando, provavelmente mexendo no carro e quebrando coisas.
 
 ## ⚡ O Que Você Vai Encontrar Aqui
@@ -23,7 +23,7 @@ Aqui estão algumas das minhas favoritas:
 
 ## 📫 Vamos Conectar!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/santosludev/) – Vamos trocar ideias sobre o futuro da tecnologia (ou memes sobre programadores).
+- 🌐 [LinkedIn](https://www.linkedin.com/in/santosludev/){:target="_blank" rel="noopener"} – Vamos trocar ideias sobre o futuro da tecnologia (ou memes sobre programadores).
 - 📄 [Baixe Meu Currículo](https://github.com/itsluucasdev/itsluucasdev/blob/master/Resume-Lucas.pdf) – Quer saber mais sobre minha jornada? Aqui está um resumo.
 
 ## 🏆 Conquistas Notáveis
